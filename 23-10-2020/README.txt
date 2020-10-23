@@ -1,0 +1,1 @@
+This is a basic Implementation of grpc using Golang also including elementary usage of the gin-gonic framework. It contains a server and a client with two endpoints, one to add two numbers and the other to multiply two numbers.
